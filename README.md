@@ -4,11 +4,13 @@
   
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 
-| 名称 | 影视网站 | 备注 |
-| :----- | :----- | :----- |
-| iceraven |  https://github.com/fork-maintainers/iceraven-browser | 可以安装插件 |
-| kiwibrowser | https://github.com/kiwibrowser/src.next | 比较流畅 |
-| Twitter | https://t.me/ddgksf2023/177 | 去广告 |
+| 名称 | 类型  | 资源地址 | 备注 |
+| :----- | :----- | :----- | :----- |
+| iceraven    |  浏览器 | https://github.com/fork-maintainers/iceraven-browser | 可以安装插件 |
+| kiwibrowser |  浏览器 | https://github.com/kiwibrowser/src.next | 比较流畅 |
+| Twitter     |  社交 | https://t.me/ddgksf2023/177 | 去广告 |
+| mihon       |  漫画 | https://github.com/mihonapp/mihon | 资源广，覆盖超多网站，[资源点我](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
+
 
 
 
