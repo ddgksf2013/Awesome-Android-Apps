@@ -1,16 +1,16 @@
 ### 墨鱼自用安卓APK资源
-* 更新时间：2024-04-25
+* 更新时间：2024-04-28
 * 备份一些apkUrl
   
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 
 | 名称 | 类型  | 资源地址 | 备注 |
 | :----- | :----- | :----- | :----- |
-| iceraven    |  浏览器 | https://github.com/fork-maintainers/iceraven-browser | 可以安装插件 |
-| kiwibrowser |  浏览器 | https://github.com/kiwibrowser/src.next | 比较流畅 |
+| Iceraven    |  浏览器 | https://github.com/fork-maintainers/iceraven-browser | 可以安装插件 |
+| Kiwibrowser |  浏览器 | https://github.com/kiwibrowser/src.next | 比较流畅 |
 | Twitter     |  社交 | https://t.me/ddgksf2023/177 | 去广告 |
-| mihon       |  漫画 | https://github.com/mihonapp/mihon | 资源广，[套件点我](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
-
+| Mihon       |  漫画 | https://github.com/mihonapp/mihon | 资源广，[套件点我](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
+|Breezy Weather | 天气 | https://github.com/breezy-weather/breezy-weather | 简洁，可自主换天气源 |
 
 
 
