@@ -14,7 +14,7 @@
 |SimpMusic      |  音乐   | https://github.com/maxrave-dev/SimpMusic/releases    | 油管音乐三方 |
 |My TV          |  直播   | https://github.com/lizongying/my-tv/                 | IPTV直播 |
 |Seal           |  下载   | https://github.com/JunkFood02/Seal                   | 基于yt-dlp下载器 |
-
+|李跳跳         |  工具   | https://t.me/ddgksf2023/7                            | 跳过开屏广告 |
 
 ```diff
 + 通知频道： https://t.me/ddgksf2021
