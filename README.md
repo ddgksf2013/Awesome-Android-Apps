@@ -12,7 +12,7 @@
 | Mihon         |  漫画   | https://github.com/mihonapp/mihon                    | 资源广，[套件点我](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
 |Breezy Weather |  天气   | https://github.com/breezy-weather/breezy-weather     | 简洁，可自主换天气源 |
 |SimpMusic      |  音乐   | https://github.com/maxrave-dev/SimpMusic/releases    | 油管音乐三方 |
-|My tv          |  直播    | https://github.com/lizongying/my-tv/                 | IPTV直播 |
+|My TV          |  直播    | https://github.com/lizongying/my-tv/                 | IPTV直播 |
 
 
 
