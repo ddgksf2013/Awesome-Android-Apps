@@ -1,5 +1,5 @@
 ### 墨鱼自用安卓APK资源
-* 更新时间：2024-04-29
+* 更新时间：2024-05-02
 * 备份一些apkUrl
   
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
@@ -15,6 +15,7 @@
 |My TV          |  直播   | https://github.com/lizongying/my-tv/                 | IPTV直播 |
 |Seal           |  下载   | https://github.com/JunkFood02/Seal                   | 基于yt-dlp下载器 |
 |李跳跳         |  工具   | https://t.me/ddgksf2023/7                            | 跳过开屏广告 |
+|Youtube Vanced | 视频    | https://vancedyoutube.org/                           | 去广告、画中画 |
 
 ```diff
 + 通知频道： https://t.me/ddgksf2021
