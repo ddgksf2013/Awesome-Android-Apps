@@ -13,10 +13,12 @@
 |Breezy Weather |  天气   | https://github.com/breezy-weather/breezy-weather     | 简洁，可自主换天气源 |
 |SimpMusic      |  音乐   | https://github.com/maxrave-dev/SimpMusic/releases    | 油管音乐三方 |
 |My TV          |  直播   | https://github.com/lizongying/my-tv/                 | IPTV直播 |
+| simple live   | 直播    | https://github.com/xiaoyaocz                         | 多平台聚合直播   |
 |Seal           |  下载   | https://github.com/JunkFood02/Seal                   | 基于yt-dlp下载器 |
 |李跳跳         |  工具   | https://t.me/ddgksf2023/7                            | 跳过开屏广告 |
 |Youtube Vanced | 视频    | https://vancedyoutube.org/                           | 去广告、画中画 |
 |GreenTuber     | 视频    | https://t.me/ddgksf2023/180                          | 油管三方客户端，可下载视频 |
+
 
 ```diff
 + 通知频道： https://t.me/ddgksf2021
